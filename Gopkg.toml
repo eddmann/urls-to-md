@@ -1,0 +1,11 @@
+[[constraint]]
+  name = "github.com/PuerkitoBio/goquery"
+  version = "1.4.1"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/atotto/clipboard"
+
+[prune]
+  go-tests = true
+  unused-packages = true
